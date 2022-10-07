@@ -1,0 +1,8 @@
+C:\Users\zanellasa\source\repos\Exercise - Array\Exercise - Array\bin\Debug\Exercise - Array.exe.config
+C:\Users\zanellasa\source\repos\Exercise - Array\Exercise - Array\bin\Debug\Exercise - Array.exe
+C:\Users\zanellasa\source\repos\Exercise - Array\Exercise - Array\bin\Debug\Exercise - Array.pdb
+C:\Users\zanellasa\source\repos\Exercise - Array\Exercise - Array\obj\Debug\Exercise - Array.csproj.AssemblyReference.cache
+C:\Users\zanellasa\source\repos\Exercise - Array\Exercise - Array\obj\Debug\Exercise - Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\zanellasa\source\repos\Exercise - Array\Exercise - Array\obj\Debug\Exercise - Array.csproj.CoreCompileInputs.cache
+C:\Users\zanellasa\source\repos\Exercise - Array\Exercise - Array\obj\Debug\Exercise - Array.exe
+C:\Users\zanellasa\source\repos\Exercise - Array\Exercise - Array\obj\Debug\Exercise - Array.pdb
