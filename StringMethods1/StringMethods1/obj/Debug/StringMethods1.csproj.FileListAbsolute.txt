@@ -1,0 +1,8 @@
+C:\Users\zanellasa\source\repos\StringMethods1\StringMethods1\bin\Debug\StringMethods1.exe.config
+C:\Users\zanellasa\source\repos\StringMethods1\StringMethods1\bin\Debug\StringMethods1.exe
+C:\Users\zanellasa\source\repos\StringMethods1\StringMethods1\bin\Debug\StringMethods1.pdb
+C:\Users\zanellasa\source\repos\StringMethods1\StringMethods1\obj\Debug\StringMethods1.csproj.AssemblyReference.cache
+C:\Users\zanellasa\source\repos\StringMethods1\StringMethods1\obj\Debug\StringMethods1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zanellasa\source\repos\StringMethods1\StringMethods1\obj\Debug\StringMethods1.csproj.CoreCompileInputs.cache
+C:\Users\zanellasa\source\repos\StringMethods1\StringMethods1\obj\Debug\StringMethods1.exe
+C:\Users\zanellasa\source\repos\StringMethods1\StringMethods1\obj\Debug\StringMethods1.pdb

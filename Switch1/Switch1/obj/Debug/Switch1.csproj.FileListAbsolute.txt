@@ -1,0 +1,8 @@
+C:\Users\zanellasa\source\repos\Switch1\Switch1\bin\Debug\Switch1.exe.config
+C:\Users\zanellasa\source\repos\Switch1\Switch1\bin\Debug\Switch1.exe
+C:\Users\zanellasa\source\repos\Switch1\Switch1\bin\Debug\Switch1.pdb
+C:\Users\zanellasa\source\repos\Switch1\Switch1\obj\Debug\Switch1.csproj.AssemblyReference.cache
+C:\Users\zanellasa\source\repos\Switch1\Switch1\obj\Debug\Switch1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zanellasa\source\repos\Switch1\Switch1\obj\Debug\Switch1.csproj.CoreCompileInputs.cache
+C:\Users\zanellasa\source\repos\Switch1\Switch1\obj\Debug\Switch1.exe
+C:\Users\zanellasa\source\repos\Switch1\Switch1\obj\Debug\Switch1.pdb

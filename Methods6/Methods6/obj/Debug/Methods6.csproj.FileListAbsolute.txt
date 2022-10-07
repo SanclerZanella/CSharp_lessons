@@ -1,0 +1,8 @@
+C:\Users\zanellasa\source\repos\Methods6\Methods6\bin\Debug\Methods6.exe.config
+C:\Users\zanellasa\source\repos\Methods6\Methods6\bin\Debug\Methods6.exe
+C:\Users\zanellasa\source\repos\Methods6\Methods6\bin\Debug\Methods6.pdb
+C:\Users\zanellasa\source\repos\Methods6\Methods6\obj\Debug\Methods6.csproj.AssemblyReference.cache
+C:\Users\zanellasa\source\repos\Methods6\Methods6\obj\Debug\Methods6.csproj.SuggestedBindingRedirects.cache
+C:\Users\zanellasa\source\repos\Methods6\Methods6\obj\Debug\Methods6.csproj.CoreCompileInputs.cache
+C:\Users\zanellasa\source\repos\Methods6\Methods6\obj\Debug\Methods6.exe
+C:\Users\zanellasa\source\repos\Methods6\Methods6\obj\Debug\Methods6.pdb

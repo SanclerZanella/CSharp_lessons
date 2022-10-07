@@ -1,0 +1,8 @@
+C:\Users\zanellasa\source\repos\Methods4\Methods4\bin\Debug\Methods4.exe.config
+C:\Users\zanellasa\source\repos\Methods4\Methods4\bin\Debug\Methods4.exe
+C:\Users\zanellasa\source\repos\Methods4\Methods4\bin\Debug\Methods4.pdb
+C:\Users\zanellasa\source\repos\Methods4\Methods4\obj\Debug\Methods4.csproj.AssemblyReference.cache
+C:\Users\zanellasa\source\repos\Methods4\Methods4\obj\Debug\Methods4.csproj.SuggestedBindingRedirects.cache
+C:\Users\zanellasa\source\repos\Methods4\Methods4\obj\Debug\Methods4.csproj.CoreCompileInputs.cache
+C:\Users\zanellasa\source\repos\Methods4\Methods4\obj\Debug\Methods4.exe
+C:\Users\zanellasa\source\repos\Methods4\Methods4\obj\Debug\Methods4.pdb

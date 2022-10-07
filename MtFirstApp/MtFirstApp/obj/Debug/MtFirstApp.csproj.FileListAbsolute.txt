@@ -1,0 +1,11 @@
+C:\Users\zanellasa\source\repos\MtFirstApp\MtFirstApp\bin\Debug\MtFirstApp.exe.config
+C:\Users\zanellasa\source\repos\MtFirstApp\MtFirstApp\bin\Debug\MtFirstApp.exe
+C:\Users\zanellasa\source\repos\MtFirstApp\MtFirstApp\bin\Debug\MtFirstApp.pdb
+C:\Users\zanellasa\source\repos\MtFirstApp\MtFirstApp\obj\Debug\MtFirstApp.csproj.AssemblyReference.cache
+C:\Users\zanellasa\source\repos\MtFirstApp\MtFirstApp\obj\Debug\MtFirstApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\zanellasa\source\repos\MtFirstApp\MtFirstApp\obj\Debug\MtFirstApp.Form1.resources
+C:\Users\zanellasa\source\repos\MtFirstApp\MtFirstApp\obj\Debug\MtFirstApp.Properties.Resources.resources
+C:\Users\zanellasa\source\repos\MtFirstApp\MtFirstApp\obj\Debug\MtFirstApp.csproj.GenerateResource.cache
+C:\Users\zanellasa\source\repos\MtFirstApp\MtFirstApp\obj\Debug\MtFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\zanellasa\source\repos\MtFirstApp\MtFirstApp\obj\Debug\MtFirstApp.exe
+C:\Users\zanellasa\source\repos\MtFirstApp\MtFirstApp\obj\Debug\MtFirstApp.pdb

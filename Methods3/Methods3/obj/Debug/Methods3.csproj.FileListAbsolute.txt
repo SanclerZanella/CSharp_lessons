@@ -1,0 +1,8 @@
+C:\Users\zanellasa\source\repos\Methods3\Methods3\bin\Debug\Methods3.exe.config
+C:\Users\zanellasa\source\repos\Methods3\Methods3\bin\Debug\Methods3.exe
+C:\Users\zanellasa\source\repos\Methods3\Methods3\bin\Debug\Methods3.pdb
+C:\Users\zanellasa\source\repos\Methods3\Methods3\obj\Debug\Methods3.csproj.AssemblyReference.cache
+C:\Users\zanellasa\source\repos\Methods3\Methods3\obj\Debug\Methods3.csproj.SuggestedBindingRedirects.cache
+C:\Users\zanellasa\source\repos\Methods3\Methods3\obj\Debug\Methods3.csproj.CoreCompileInputs.cache
+C:\Users\zanellasa\source\repos\Methods3\Methods3\obj\Debug\Methods3.exe
+C:\Users\zanellasa\source\repos\Methods3\Methods3\obj\Debug\Methods3.pdb

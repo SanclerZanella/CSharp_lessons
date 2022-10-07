@@ -1,0 +1,8 @@
+C:\Users\zanellasa\source\repos\WhileLoop1\WhileLoop1\bin\Debug\WhileLoop1.exe.config
+C:\Users\zanellasa\source\repos\WhileLoop1\WhileLoop1\bin\Debug\WhileLoop1.exe
+C:\Users\zanellasa\source\repos\WhileLoop1\WhileLoop1\bin\Debug\WhileLoop1.pdb
+C:\Users\zanellasa\source\repos\WhileLoop1\WhileLoop1\obj\Debug\WhileLoop1.csproj.AssemblyReference.cache
+C:\Users\zanellasa\source\repos\WhileLoop1\WhileLoop1\obj\Debug\WhileLoop1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zanellasa\source\repos\WhileLoop1\WhileLoop1\obj\Debug\WhileLoop1.csproj.CoreCompileInputs.cache
+C:\Users\zanellasa\source\repos\WhileLoop1\WhileLoop1\obj\Debug\WhileLoop1.exe
+C:\Users\zanellasa\source\repos\WhileLoop1\WhileLoop1\obj\Debug\WhileLoop1.pdb

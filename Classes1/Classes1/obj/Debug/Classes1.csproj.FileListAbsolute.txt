@@ -1,0 +1,8 @@
+C:\Users\zanellasa\source\repos\Classes1\Classes1\obj\Debug\Classes1.csproj.AssemblyReference.cache
+C:\Users\zanellasa\source\repos\Classes1\Classes1\obj\Debug\Classes1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zanellasa\source\repos\Classes1\Classes1\obj\Debug\Classes1.csproj.CoreCompileInputs.cache
+C:\Users\zanellasa\source\repos\Classes1\Classes1\bin\Debug\Classes1.exe.config
+C:\Users\zanellasa\source\repos\Classes1\Classes1\bin\Debug\Classes1.exe
+C:\Users\zanellasa\source\repos\Classes1\Classes1\bin\Debug\Classes1.pdb
+C:\Users\zanellasa\source\repos\Classes1\Classes1\obj\Debug\Classes1.exe
+C:\Users\zanellasa\source\repos\Classes1\Classes1\obj\Debug\Classes1.pdb

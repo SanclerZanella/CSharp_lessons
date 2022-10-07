@@ -1,0 +1,8 @@
+C:\Users\zanellasa\source\repos\BreakContinue1\BreakContinue1\bin\Debug\BreakContinue1.exe.config
+C:\Users\zanellasa\source\repos\BreakContinue1\BreakContinue1\bin\Debug\BreakContinue1.exe
+C:\Users\zanellasa\source\repos\BreakContinue1\BreakContinue1\bin\Debug\BreakContinue1.pdb
+C:\Users\zanellasa\source\repos\BreakContinue1\BreakContinue1\obj\Debug\BreakContinue1.csproj.AssemblyReference.cache
+C:\Users\zanellasa\source\repos\BreakContinue1\BreakContinue1\obj\Debug\BreakContinue1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zanellasa\source\repos\BreakContinue1\BreakContinue1\obj\Debug\BreakContinue1.csproj.CoreCompileInputs.cache
+C:\Users\zanellasa\source\repos\BreakContinue1\BreakContinue1\obj\Debug\BreakContinue1.exe
+C:\Users\zanellasa\source\repos\BreakContinue1\BreakContinue1\obj\Debug\BreakContinue1.pdb

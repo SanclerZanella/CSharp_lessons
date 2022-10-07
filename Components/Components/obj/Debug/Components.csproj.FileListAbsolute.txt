@@ -1,0 +1,12 @@
+C:\Users\zanellasa\source\repos\Components\Components\bin\Debug\Components.exe.config
+C:\Users\zanellasa\source\repos\Components\Components\bin\Debug\Components.exe
+C:\Users\zanellasa\source\repos\Components\Components\bin\Debug\Components.pdb
+C:\Users\zanellasa\source\repos\Components\Components\obj\Debug\Components.csproj.AssemblyReference.cache
+C:\Users\zanellasa\source\repos\Components\Components\obj\Debug\Components.csproj.SuggestedBindingRedirects.cache
+C:\Users\zanellasa\source\repos\Components\Components\obj\Debug\Components.Form1.resources
+C:\Users\zanellasa\source\repos\Components\Components\obj\Debug\Components.Properties.Resources.resources
+C:\Users\zanellasa\source\repos\Components\Components\obj\Debug\Components.csproj.GenerateResource.cache
+C:\Users\zanellasa\source\repos\Components\Components\obj\Debug\Components.csproj.CoreCompileInputs.cache
+C:\Users\zanellasa\source\repos\Components\Components\obj\Debug\Components.exe
+C:\Users\zanellasa\source\repos\Components\Components\obj\Debug\Components.pdb
+C:\Users\zanellasa\source\repos\Components\Components\obj\Debug\Components.Form2.resources

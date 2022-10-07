@@ -1,0 +1,8 @@
+C:\Users\zanellasa\source\repos\Menus1\Menus1\bin\Debug\Menus1.exe.config
+C:\Users\zanellasa\source\repos\Menus1\Menus1\bin\Debug\Menus1.exe
+C:\Users\zanellasa\source\repos\Menus1\Menus1\bin\Debug\Menus1.pdb
+C:\Users\zanellasa\source\repos\Menus1\Menus1\obj\Debug\Menus1.csproj.AssemblyReference.cache
+C:\Users\zanellasa\source\repos\Menus1\Menus1\obj\Debug\Menus1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zanellasa\source\repos\Menus1\Menus1\obj\Debug\Menus1.csproj.CoreCompileInputs.cache
+C:\Users\zanellasa\source\repos\Menus1\Menus1\obj\Debug\Menus1.exe
+C:\Users\zanellasa\source\repos\Menus1\Menus1\obj\Debug\Menus1.pdb

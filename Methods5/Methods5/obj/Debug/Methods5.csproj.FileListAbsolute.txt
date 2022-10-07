@@ -1,0 +1,8 @@
+C:\Users\zanellasa\source\repos\Methods5\Methods5\bin\Debug\Methods5.exe.config
+C:\Users\zanellasa\source\repos\Methods5\Methods5\bin\Debug\Methods5.exe
+C:\Users\zanellasa\source\repos\Methods5\Methods5\bin\Debug\Methods5.pdb
+C:\Users\zanellasa\source\repos\Methods5\Methods5\obj\Debug\Methods5.csproj.AssemblyReference.cache
+C:\Users\zanellasa\source\repos\Methods5\Methods5\obj\Debug\Methods5.csproj.SuggestedBindingRedirects.cache
+C:\Users\zanellasa\source\repos\Methods5\Methods5\obj\Debug\Methods5.csproj.CoreCompileInputs.cache
+C:\Users\zanellasa\source\repos\Methods5\Methods5\obj\Debug\Methods5.exe
+C:\Users\zanellasa\source\repos\Methods5\Methods5\obj\Debug\Methods5.pdb
